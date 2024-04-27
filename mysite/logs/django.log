@@ -1,0 +1,14 @@
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 230
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2343
+C:\Users\Виталий\Desktop\seminardd\mysite\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Виталий\Desktop\seminardd\mysite\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Виталий\Desktop\seminardd\mysite\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 227
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2343
+"GET / HTTP/1.1" 200 251
